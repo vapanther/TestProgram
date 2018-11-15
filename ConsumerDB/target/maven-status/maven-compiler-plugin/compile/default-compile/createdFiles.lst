@@ -1,0 +1,6 @@
+com\crosscode\ConsumerDB\bean\IPRepository.class
+com\crosscode\ConsumerDB\App.class
+com\crosscode\ConsumerDB\bean\IpAddress.class
+com\crosscode\ConsumerDB\demo\controller\SampleController.class
+com\crosscode\ConsumerDB\demo\controller2\ControllerCall.class
+com\crosscode\ConsumerDB\demo\consumer\Consume.class
